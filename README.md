@@ -1,4 +1,4 @@
-# Volatility Symbols Tables for Mac
+# Volatility Symbol Tables for Mac
 
 This repository contains volatility ISF of mac os system from version 10.8 up to 12.3.
 
